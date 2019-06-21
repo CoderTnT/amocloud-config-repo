@@ -18,5 +18,8 @@ zipkin:
       queue: zipkin
   storage:
     type: mysql
+    
+liaosj:
+  hello: 你好！
 
 
